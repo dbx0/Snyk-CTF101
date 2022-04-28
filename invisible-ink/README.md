@@ -32,6 +32,6 @@ By sending that, you'll get the flag in the response.
 	"userID": "...",
 	"time": "...",
 	"message": "ping",
-	"flag": "SNYK{THE FLAG HERO}"
+	"flag": "SNYK{YOUR FLAG HERE}"
 }
 ```
